@@ -1,0 +1,10 @@
+name: FTB NHD
+version: 0.1
+main: nodamage.common.NoHungerDamage
+author: Mendrinos
+
+commands:
+    damage:
+        description: status of FTB NHD
+        usage: /damage
+        alias: /hunger
